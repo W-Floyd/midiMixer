@@ -1,5 +1,7 @@
 # midiMixer v1
 
+Update: [Blog post.](https://notmy.space/projects/midimixerv1/)
+
 This is the first properly documented incarnation of my project.
 It originally started when I hand-wired a version of this, and assembled it in a 3D printed case.
 It included a lot of very carefully measured and bent solid core 22AWG wire.
